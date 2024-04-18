@@ -12,6 +12,7 @@ print()
 cantidad_letras1 = texto.count(letras[0])
 cantidad_letras2 = texto.count(letras[1])
 cantidad_letras3 = texto.count(letras[2])
+print()
 
 print(f"A letra '{letras[0]}' aparece {cantidad_letras1} vezes no texto.")
 print(f"A letra '{letras[1]}' aparece {cantidad_letras2} vezes no texto.")
